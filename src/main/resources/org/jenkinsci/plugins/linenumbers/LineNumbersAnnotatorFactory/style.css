@@ -26,7 +26,3 @@ pre p,pre span {
 	margin: 0;
 	padding: 0;
 }
-
-pre p.line:hover {
-	background-color: rgb(200, 200, 200) !important;
-}
